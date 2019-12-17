@@ -28,3 +28,5 @@ import Foundation
 
 /// A namespace for all GraphQL network-layer classes.
 public struct Graph {}
+
+@objc class Graph : NSObject
